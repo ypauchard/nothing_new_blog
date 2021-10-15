@@ -2,6 +2,8 @@
 toc: true
 layout: post
 description: A journey from linear regression to glms 
+hide: true
+search_exclude: true
 categories: [machinelearning, statistics]
 title: Generalized Linear Models
 ---
