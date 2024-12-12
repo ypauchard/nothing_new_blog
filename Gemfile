@@ -41,3 +41,5 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "faraday", "< 1.0"
 
+# to fix https://github.com/ffi/ffi/issues/1103
+gem "ffi", "< 1.17.0"
