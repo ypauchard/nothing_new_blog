@@ -3,8 +3,6 @@ toc: true
 layout: post
 description: Trying to understand software engineering.
 categories: [software, engineering]
-hide: false
-search_exclude: false
 title: A brief overview of Software Engineering
 ---
 
